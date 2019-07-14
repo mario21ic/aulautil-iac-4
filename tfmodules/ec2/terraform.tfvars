@@ -1,0 +1,5 @@
+region = "us-west-2"
+env = "draft"
+nombre = "HelloNginx"
+ami_name = "mynginx"
+key_name = "demokp"
